@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hsansu.github.io/Tza/sitemap.Tza.gz
